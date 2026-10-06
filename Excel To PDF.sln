@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ExcelToPDF-Proj", "WindowsApplication1\ExcelToPDF-Proj.vbproj", "{F48D2CC5-3386-4645-826F-34D6A411BB40}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "UpdateFormula", "UpdateFormula\UpdateFormula.vbproj", "{F7306C30-F602-487F-B0F2-0C503C068479}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F48D2CC5-3386-4645-826F-34D6A411BB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F48D2CC5-3386-4645-826F-34D6A411BB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F48D2CC5-3386-4645-826F-34D6A411BB40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7306C30-F602-487F-B0F2-0C503C068479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7306C30-F602-487F-B0F2-0C503C068479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7306C30-F602-487F-B0F2-0C503C068479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7306C30-F602-487F-B0F2-0C503C068479}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
