@@ -1,0 +1,31 @@
+I have a task to copy paste a master list to a template.
+1 record is 1 template
+
+
+Day 1                                  Day 2
+Employee ID, Salary,  Job Desc - Name, Employee ID, Salary, Job Desc - Name   
+            , Deduction,             ,            , Deduction,             ,
+Employee ID, Salary, Job Desc - Name, Employee ID, Salary, Job Desc - Name
+           , Deduction,              ,            , Deductin,              ,
+
+
+Can I code this using python?
+There's has to be error catch,
+
+Here's more detail:
+Job Desc - Name is in Arabic.
+For Example Job Desc - Name can be empty.
+It can be Name only or Job Desc Only. When this happen, skip save Employee ID to notepad.
+It can be that Job Desc and Name is written in --------.
+It can be that Job Desc and Name has many -. Ex. Janitor - Cleaner - Kat-kat. When this happen, skip, save employee ID to notepad.  
+
+I can copy paste Day 1 to a different excel. 
+Then the python program will copy each record to a template.
+each template is named after the employee ID. But the employee id is number/year.
+ 
+ 
+
+no need to check for incomplete pair, when the deduction is blank.  It's automatically 0. The template is an excel file also.
+
+
+For now make a template, with mock cell mapping. Like an employee pay sheet. I want the output in the same folder as the python file and the source file.
